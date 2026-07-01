@@ -1,4 +1,4 @@
-# Plateforme Sociale Étudiante  
+# Plateforme Sociale Media  
 **TP : Gestion Avancée de Sessions & Interactions Ajax**  
 
 ---
